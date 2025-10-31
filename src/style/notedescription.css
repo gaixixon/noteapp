@@ -1,5 +1,0 @@
-.note-description { display:block; gap:6px; }
-.nd-row { display:flex; align-items:flex-start; gap:8px; margin:4px 0; }
-.nd-icon { width:18px; flex:0 0 18px; line-height:18px; }
-.nd-content { white-space: pre-wrap; }
-.nd-done { text-decoration: line-through; opacity:0.85; }
